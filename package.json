@@ -10,7 +10,7 @@
     "description": "Outlook app for NW.js.",
     "version": "1.0",
     "window": {
-        "icon": "outlook-app.png",
+        "icon": "outlook.png",
         "toolbar": false,
         "frame": true,
         "width": 1366,
